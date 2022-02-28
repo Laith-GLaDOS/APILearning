@@ -13,4 +13,4 @@ i write hello world apis in languages
 # API Criteria must meet:  
  - a `GET` `/hello` route that returns `Hello, World!`  
  - a `GET` `/hello/<name>` or `/hello?name=<value>` route that returns `Hello, <name>!` (`<name>` is a parameter)
- - a `404` handler that returns `Not found!` and status code `404`
+ - a status `404` handler
