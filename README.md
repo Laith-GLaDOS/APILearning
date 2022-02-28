@@ -5,9 +5,9 @@ i write hello world apis in languages
  - PHP  
  - Rust (with Rocket)  
  - Go (with net/http)  
+ - Python (with Flask)  
 
 # Languages I wanna do:  
- - Python (with Flask)  
  - JavaScript (with `http` module and Node.js)  
   
 # API Criteria must meet:  
