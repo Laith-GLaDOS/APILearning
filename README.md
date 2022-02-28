@@ -3,9 +3,9 @@ i write hello world apis in languages
   
 # Languages done:  
  - PHP  
+ - Rust (with Rocket)  
 
 # Languages I wanna do:  
- - Rust (with Rocket)  
  - Go (with net/http)  
  - Python (with Flask)  
   
