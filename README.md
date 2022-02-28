@@ -6,9 +6,10 @@ i write hello world apis in languages
  - Rust (with Rocket)  
  - Go (with net/http)  
  - Python (with Flask)  
+ - JavaScript (with `http` module and Node.js)  
 
 # Languages I wanna do:  
- - JavaScript (with `http` module and Node.js)  
+None  
   
 # API Criteria must meet:  
  - a `GET` `/hello` route that returns `Hello, World!`  
